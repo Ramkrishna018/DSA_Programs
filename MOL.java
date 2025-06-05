@@ -13,6 +13,7 @@ public void m1(int a, int b){
  public static void main(String[] args){
    MOL mol = new MOL();
      mol.m1();
+     mol.m1();
      mol.m1(5);
      mol.m1(5,10);   
 }
